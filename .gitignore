@@ -1,2 +1,4 @@
 /.metadata/
 /bin/
+.classpath
+.project

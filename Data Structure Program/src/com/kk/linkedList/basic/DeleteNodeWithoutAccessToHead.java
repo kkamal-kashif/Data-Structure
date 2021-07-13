@@ -1,7 +1,5 @@
 package com.kk.linkedList.basic;
 
-import com.kk.linkedList.basic.Try1.Node;
-
 //https://leetcode.com/problems/delete-node-in-a-linked-list/
 public class DeleteNodeWithoutAccessToHead {
 	Node head;
