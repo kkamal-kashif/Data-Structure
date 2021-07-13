@@ -1,9 +1,7 @@
-package com.kk.linkedList;
+package com.kk.linkedList.basic;
 
 import java.util.HashSet;
 import java.util.Set;
-
-import com.kk.linkedList.basic.Node;
 
 public class LinkedListCycle {
 	static Node head;

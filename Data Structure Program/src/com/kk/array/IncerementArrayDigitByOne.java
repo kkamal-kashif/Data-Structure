@@ -15,7 +15,7 @@ public class IncerementArrayDigitByOne {
 		if (arr == null || arr.length == 0)
 			return new int[] { 1 };
 		int carry = 1;
-		for (int i = arr.length - 1; i >= 0; i--) {
+		for (int i = arr.length- - 1; i >= 0; i--) {
 			int sum = arr[i] + 1;
 			carry = sum / 10;
 			arr[i] = sum % 10;
